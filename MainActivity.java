@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
     
     private void loadWebsite() {
         // Try to load your website
-        myWeb.loadUrl("https://alharfiyyin.great-site.net/");
+        myWeb.loadUrl("https://exmaple.com/");
     }
     
     @Override
